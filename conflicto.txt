@@ -1,2 +1,3 @@
 Este es un archivo de prueba para conflictos
 Hacemos un cambio en el archivo
+tercer cambio en el archivo
